@@ -1,0 +1,1 @@
+export const BASE_URL = '/nuxt3-canvas-crop-resize/';
