@@ -98,7 +98,7 @@ const onClickChoiceButton = () => {
           ref="inputFileNode"
           type="file"
           id="photoUpload"
-          accept="image/*"
+          accept="image/*;capture=camera"
           @change="handleFileUpload"
           class="iconSetting__input"
         />
