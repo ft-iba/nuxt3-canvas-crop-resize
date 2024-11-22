@@ -85,7 +85,7 @@ const onClickChoiceButton = () => {
 
 <template>
   <div class="iconSetting">
-    <p>0.0.2</p>
+    <p>0.0.3</p>
     <p>アルバムから選択・または写真を撮影</p>
     <div class="iconSetting__upload">
       <div class="iconSetting__item">
